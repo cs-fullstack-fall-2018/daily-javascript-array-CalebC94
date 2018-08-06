@@ -25,9 +25,10 @@ What is the output when you run this script in the browser?
 
 A. An alert box displaying the following: Paul, John, Pete, George
 
-B. An alert box displaying the following:Paul, John, Ringo, George
+(B.) An alert box displaying the following:Paul, John, Ringo, George
 
 C. An alert box displaying the following: Paul, John, George
 
 D. An alert box displaying the following: John, Ringo, George
 
+The answer is B
